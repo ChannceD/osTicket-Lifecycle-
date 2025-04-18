@@ -70,18 +70,6 @@ This project demonstrates my understanding of the complete lifecycle of a suppor
 
 ---
 
-## 📂 Repository Structure
-
-```
-Tickets and Ticket Lifecycle/
-├── 1.Creating a ticket .png
-├── 2.Login in as our helpdesk.png
-├── ...
-└── 9.Ticket resolved.png
-```
-
----
-
 ## 📌 Why This Matters
 
 This lab mimics real-world IT support operations using a structured ticketing system. Demonstrating this lifecycle helps employers understand that I can:
@@ -92,11 +80,3 @@ This lab mimics real-world IT support operations using a structured ticketing sy
 - Ensure SLAs are respected
 
 ---
-
-## 🔗 About osTicket
-
-[osTicket](https://osticket.com/) is a widely-used open-source support ticket system designed to streamline customer support and IT service management.
-
----
-
-Feel free to reach out if you’d like to collaborate or if you’re hiring!
