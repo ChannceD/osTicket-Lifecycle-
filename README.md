@@ -1,11 +1,14 @@
+<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
 
-# 🧾 osTicket Ticket Lifecycle – Lab Walkthrough
+# 📃 osTicket Ticket Lifecycle – Lab Walkthrough
 
 This lab simulates a real-world IT support scenario by walking through the complete **ticket lifecycle** in osTicket — from ticket creation to resolution. It demonstrates my ability to use a ticketing system effectively, assign roles, manage priorities, and resolve user issues in a professional workflow.
 
 ---
 
-## 🧰 Technologies Used
+## ⚙️ Technologies Used
 
 - **osTicket** – Open-source ticketing system
 - **Windows 10 VM** – Hosting osTicket and simulating user/helpdesk interaction
@@ -13,7 +16,7 @@ This lab simulates a real-world IT support scenario by walking through the compl
 
 ---
 
-## 🖼️ Ticket Lifecycle Steps (with Screenshots)
+## Ticket Lifecycle Steps (with Screenshots)
 
 ### 🔹 Step 1: Ticket Created by End User
 ![Step 1](Tickets%20and%20Ticket%20Lifecycle/1.Creating%20a%20ticket%20.png)  
