@@ -1,82 +1,86 @@
-<p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
-</p>
 
-# 🎫 Ticket Lifecycle in osTicket
+# 🧾 osTicket Ticket Lifecycle – Lab Walkthrough
 
-This project demonstrates my understanding of the complete lifecycle of a support ticket using osTicket, from ticket creation to resolution. This workflow mirrors real-world help desk scenarios, and showcases how issues are tracked, updated, escalated, and resolved efficiently using a ticketing system.
+This lab simulates a real-world IT support scenario by walking through the complete **ticket lifecycle** in osTicket — from ticket creation to resolution. It demonstrates my ability to use a ticketing system effectively, assign roles, manage priorities, and resolve user issues in a professional workflow.
 
 ---
 
-## 📸 Screenshots & Explanations
+## 🧰 Technologies Used
 
-### 1. Creating a Ticket
-![Creating a Ticket](Tickets%20and%20Ticket%20Lifecycle/1.Creating%20a%20ticket%20.png)
-- A user submits a support request via the osTicket web form.
-- The ticket includes subject, message, and issue details.
-
-### 2. Logging in as Helpdesk Agent
-![Helpdesk Login](Tickets%20and%20Ticket%20Lifecycle/2.Login%20in%20as%20our%20helpdesk.png)
-- The helpdesk team logs in to review newly submitted tickets in the support queue.
-
-### 3. Setting Correct Properties
-![Ticket Properties](Tickets%20and%20Ticket%20Lifecycle/3.Setting%20correct%20proporties%20.png)
-- The agent updates ticket properties:
-  - Department
-  - Priority
-  - SLA Plan
-  - Help Topic
-- This ensures the ticket is categorized and handled appropriately.
-
-### 4. Updating SLA
-![Updating SLA](Tickets%20and%20Ticket%20Lifecycle/4.Updating%20SLA.png)
-- The SLA (Service Level Agreement) is applied to define expected resolution time.
-- Helps track and meet internal response/resolution goals.
-
-### 5. Updating Help Topic
-![Help Topic](Tickets%20and%20Ticket%20Lifecycle/5.Updating%20help%20topic.png)
-- Assigns the correct Help Topic to route the ticket to the most relevant team.
-- Aids in reporting and automation rules.
-
-### 6. Assigning to System Administrator
-![Assign Ticket](Tickets%20and%20Ticket%20Lifecycle/6.Assigning%20to%20sysadmin%20.png)
-- The ticket is escalated and assigned to the SysAdmin team for technical troubleshooting.
-
-### 7. Providing Ticket Update
-![Ticket Update](Tickets%20and%20Ticket%20Lifecycle/7.providing%20update%20for%20ticket%20.png)
-- An update is posted to keep the user informed of progress.
-- Good communication ensures transparency and builds user trust.
-
-### 8. Issue Found & Resolved
-![Issue Resolved](Tickets%20and%20Ticket%20Lifecycle/8.found%20and%20resolved%20the%20issue.png)
-- The root cause is identified and fixed.
-- A final response is drafted, explaining what was done.
-
-### 9. Ticket Resolved
-![Ticket Closed](Tickets%20and%20Ticket%20Lifecycle/9.Ticket%20resolved.png)
-- Ticket is marked as “Resolved.”
-- This closes the ticket lifecycle and archives it for reporting.
+- **osTicket** – Open-source ticketing system
+- **Windows 10 VM** – Hosting osTicket and simulating user/helpdesk interaction
+- **Browser-based GUI** – Ticket submission, updates, and tracking
 
 ---
 
-## ✅ Skills Demonstrated
+## 🖼️ Ticket Lifecycle Steps (with Screenshots)
 
-- Help Desk Operations
-- Ticket Routing & Categorization
-- SLA Management
-- Technical Escalation Workflow
-- User Communication & Transparency
-- Issue Resolution
+### 🔹 Step 1: Ticket Created by End User
+![Step 1](Tickets%20and%20Ticket%20Lifecycle/1.Creating%20a%20ticket%20.png)  
+A user submits a support ticket describing their issue. This kicks off the ticket lifecycle.
 
 ---
 
-## 📌 Why This Matters
+### 🔹 Step 2: Helpdesk Agent Logs In
+![Step 2](Tickets%20and%20Ticket%20Lifecycle/2.Login%20in%20as%20our%20helpdesk.png)  
+The helpdesk agent logs into the osTicket dashboard to view and manage incoming tickets.
 
-This lab mimics real-world IT support operations using a structured ticketing system. Demonstrating this lifecycle helps employers understand that I can:
+---
 
-- Manage and resolve user issues systematically
-- Use industry-standard ticketing tools
-- Communicate updates clearly with end users
-- Ensure SLAs are respected
+### 🔹 Step 3: Set Correct Properties
+![Step 3](Tickets%20and%20Ticket%20Lifecycle/3.Setting%20correct%20proporties%20.png)  
+The agent assigns ticket priority, department, SLA plan, and team to route it to the appropriate tech.
+
+---
+
+### 🔹 Step 4: Update SLA Plan
+![Step 4](Tickets%20and%20Ticket%20Lifecycle/4.Updating%20SLA.png)  
+SLA is adjusted to reflect expected response and resolution time — critical for performance tracking.
+
+---
+
+### 🔹 Step 5: Set Help Topic
+![Step 5](Tickets%20and%20Ticket%20Lifecycle/5.Updating%20help%20topic.png)  
+Updated the help topic so the ticket is classified correctly for reporting and analytics.
+
+---
+
+### 🔹 Step 6: Assign Ticket to System Admin
+![Step 6](Tickets%20and%20Ticket%20Lifecycle/6.Assigning%20to%20sysadmin%20.png)  
+The ticket is escalated and assigned directly to a System Administrator for resolution.
+
+---
+
+### 🔹 Step 7: Provide Update on Ticket
+![Step 7](Tickets%20and%20Ticket%20Lifecycle/7.providing%20update%20for%20ticket%20.png)  
+The assigned tech documents progress and communicates with the end user via the ticket thread.
+
+---
+
+### 🔹 Step 8: Problem Identified and Resolved
+![Step 8](Tickets%20and%20Ticket%20Lifecycle/8.found%20and%20resolved%20the%20issue.png)  
+Issue has been found and resolved. A detailed update is posted for transparency and documentation.
+
+---
+
+### 🔹 Step 9: Ticket Resolved
+![Step 9](Tickets%20and%20Ticket%20Lifecycle/9.Ticket%20resolved.png)  
+Ticket is marked as resolved and closed. The lifecycle is complete.
+
+---
+
+## 🚀 Skills Demonstrated
+
+- IT Ticket Lifecycle Management
+- SLA and Priority Management
+- Role-based Assignment
+- Communication and Documentation
+- Helpdesk Workflow Knowledge
+
+---
+
+## 💼 Why This Matters
+
+Ticketing systems are central to every IT support and operations team. This lab shows I understand not just how to use osTicket, but how to manage a professional ticket flow from start to finish — a must-have skill in help desk and IT support roles.
 
 ---
